@@ -1,6 +1,4 @@
-![](ui_snapshot.jpg)
-
-In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
+In this data science and machine learning project, I classify sports personalities. I restrict classification to only 5 people,
 1) Maria Sharapova
 2) Serena Williams
 3) Virat Kohli
@@ -8,11 +6,11 @@ In this data science and machine learning project, we classify sports personalit
 5) Lionel Messi
 
 Here is the folder structure,
-* UI : This contains ui website code 
-* server: Python flask server
-* model: Contains python notebook for model building
-* google_image_scrapping: code to scrap google for images
-* images_dataset: Dataset used for our model training
+1. UI : This contains ui website code 
+2. server: Python flask server
+3. model: Contains python notebook for model building
+4. google_image_scrapping: code to scrap google for images
+5. images_dataset: Dataset used for our model training
 
 Technologies used in this project,
 1. Python
@@ -22,6 +20,3 @@ Technologies used in this project,
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
-
-
-Here is the video playlist for entire project: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
